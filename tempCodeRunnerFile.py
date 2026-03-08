@@ -1,3 +1,5 @@
-
-# res = tuple1.index(3,4,8)
-# res = len(tuple1)
+def factorial(n):
+#     if n == 0:
+#         return 1
+#     else:
+#         return n * factorial(n - 1)
