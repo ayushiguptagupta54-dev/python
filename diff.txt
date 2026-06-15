@@ -1,0 +1,27 @@
+Stack
+1. LIFO last in first out
+2.top
+3. top
+4. call stack, undo
+
+
+
+
+
+
+
+
+Queue
+1. FIFO first in first out
+2. back
+3. front
+4. order _order, items, printer
+
+
+dequeue front/back
+1. collection, dequeue
+list.pop(0)
+O(n)
+
+k largest
+k larget
